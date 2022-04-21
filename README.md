@@ -1,6 +1,6 @@
 # Typing Speed Test
 
-Touch typing speed test using Wikipedia API
+Touch typing speed test using the Wikipedia API
 
 ---
 
